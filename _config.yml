@@ -16,7 +16,7 @@
 title: Hans-and-Justin Lightroom
 description: Lightroom documentation
 baseurl: "/hans-and-justin-lightroom" # the subpath of your site, e.g. /blog
-url: "https://jmajam.github.io/hans-and-justin-lightroom/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jmajam.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 permalink: pretty
