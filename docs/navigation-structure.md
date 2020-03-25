@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Structure
+title: Aesthetic: LinkedIn Portrait Style
 nav_order: 5
 ---
 
