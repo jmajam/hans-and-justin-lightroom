@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aesthetic - Lofty Soft Style
+title: Basics
 nav_order: 2
 ---
 
