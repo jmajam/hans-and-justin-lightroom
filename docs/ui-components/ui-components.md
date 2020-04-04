@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Aesthetic: Lofty Style /
-nav_exclude: true
 has_children: false
 search_exclude: true
 ---
