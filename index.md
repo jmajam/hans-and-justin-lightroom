@@ -15,6 +15,22 @@ These instructions were made in mind for users with little to no experience work
 
 {: .fs-6 .fw-300 }
 
+## What is Adobe Lightroom?
+Adobe Lightroom is an image editor that allows the user to manipulate multiple images without touching the original files. This is ideal for retouching, enhancing, and improving digital photos and is widely used by the masses.
+
+## Prerequisites
+Your computer must meet the minimum technical specifications outlined below to run and use Lightroom Classic.
+
+### Windows Minimum Requirements
+
+* Processor: Intel® or AMD processor with 64-bit support*; 2 GHz or faster processor
+
+* Operating system: Microsoft Windows 7 with Service Pack 1 (64-bit) or Windows 10**
+
+* RAM: 4 GB of RAM (12 GB recommended)
+
+* Storage Space: 2 GB of available storage space for program installation.
+
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
