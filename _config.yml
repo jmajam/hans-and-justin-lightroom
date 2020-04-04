@@ -34,6 +34,9 @@ search_tokenizer_separator: /[\s/]+/
 # Enable or disable heading anchors
 heading_anchors: true
 
+#remote theme
+remote_theme: pmarsceill/just-the-docs
+
 # Aux links for the upper right navigation
 aux_links:
   "Just the Docs on GitHub":
@@ -51,6 +54,7 @@ ga_tracking: UA-2709176-10
 
 plugins:
   - jekyll-seo-tag
+
 
 compress_html:
   clippings: all
