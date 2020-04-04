@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Aesthetic: Lofty Style //
-nav_order: 3
+title: Aesthetic: Lofty Style /
+nav_exclude: true
 has_children: true
 permalink: /docs/ui-components
 ---

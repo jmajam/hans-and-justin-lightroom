@@ -59,6 +59,8 @@ Your computer must meet the minimum technical specifications outlined below to r
     * OpenGL 3.3-capable video adapter for GPU-related functionality.
     * 1 GB of Video RAM (VRAM). 2 GB of dedicated VRAM (4 GB recommended) for large, high-resolution monitors, such as 4K- and 5K-resolution monitors.
 
+* Internet: Internet connection and registration are necessary for required software activation, validation of subscriptions, and access to online services.†
+
 ### 
 ## Getting started
 
