@@ -4,7 +4,6 @@ title: Aesthetic: Lofty Style /
 nav_exclude: true
 has_children: false
 search_exclude: true
-permalink: /docs/ui-components
 ---
 
 # UI Components

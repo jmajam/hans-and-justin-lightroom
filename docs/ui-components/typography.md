@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Typography
-parent: UI Components
 nav_exclude: true
 ---
 
