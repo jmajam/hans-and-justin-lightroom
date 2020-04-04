@@ -61,7 +61,7 @@ Your computer must meet the minimum technical specifications outlined below to r
 
 * Internet: Internet connection and registration are necessary for required software activation, validation of subscriptions, and access to online services.†
 
-##Typographical Conventions
+## Typographical Conventions
 <div class="conventions" markdown="1">
 | Convention | Example |
 |:-----------|:--------|
