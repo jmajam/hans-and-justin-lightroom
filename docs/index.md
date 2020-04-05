@@ -9,14 +9,16 @@ permalink: /
 # Introduction
 {: .fs-9 }
 
-This is a basic guide to getting started with Adobe Lightroom. Use the links on the left to navigate through the document and learn how to edit photos. After covering the [Basics](https://jmajam.github.io//hans-and-justin-lightroom/docs/), two common editing styles are introduced to get you started.
+![lightroom](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/220px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png)
+
+This is a basic guide to getting started with Adobe Lightroom Classic. Use the links on the left to navigate through the document and learn how to edit photos. After covering the [Basics](https://jmajam.github.io//hans-and-justin-lightroom/docs/), two common editing styles are introduced to get you started.
 
 These instructions were made in mind for users with little to no experience working with Adobe Lightroom. The version used in the production of this page is with Lightroom v8.2.1.10. 
 
 {: .fs-6 .fw-300 }
 
-## What is Adobe Lightroom?
-Adobe Lightroom is an image editor that allows the user to manipulate multiple images without touching the original files. This is ideal for retouching, enhancing, and improving digital photos and is widely used by the masses. You can download a free trial or purcahse the product [here](https://www.adobe.com/products/photoshop-lightroom.html).
+## What is Adobe Lightroom Classic?
+Lightroom is an image editor that allows the user to manipulate multiple images without touching the original files. This is ideal for retouching, enhancing, and improving digital photos and is widely used by the masses. You can download a free trial or purchase the product [here](https://www.adobe.com/products/photoshop-lightroom.html).
 
 ## Prerequisites
 Your computer must meet the minimum technical specifications outlined below to run and use Lightroom Classic. 
