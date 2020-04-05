@@ -21,7 +21,10 @@ Before any editing can begin, we must be able to import pictures and start new p
 {:toc}
 
 ## Importing
-{: .d-inline-block }
+In order to begin your project, you need to bring in the photo(s) you want to manipulate.
+{: .no_toc }
+    1. Go to **File** -> **Import Photos and Videos**
+    1. Select a source by using the navigation panel to locate your folder.
 
 ## Exporting
 
