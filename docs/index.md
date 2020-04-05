@@ -65,8 +65,8 @@ Your computer must meet the minimum technical specifications outlined below to r
 
 | Convention   | Examples   |
 |:------------ |:------------|
-| Interactive elements are bolded| Go to **File** -> **Import Photos and Video**|
-
+| Interactive elements are bolded.| Go to **File** -> **Import Photos and Video**|
+| Keyboard stokes are italicized. | Use _Ctrl_ + _Z_ to undo changes.|
 ### License
 
 Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
