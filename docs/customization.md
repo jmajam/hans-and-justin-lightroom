@@ -39,7 +39,7 @@ Adding warm tones to a photo is a great way to bring life to the subject. This m
 ## Additional tips
 * Increase the **Temperature** slider inside **Basic** for more warmth, giving the image a more red or rosy tint.
 
-##Conclusion
+## Conclusion
 There are many other ways to make a picture more sentimental. Not every photo will be edited exactly the same.
 Some require different levels of balance between light and dark colours, depending on how the original photo was captured.
 It will take some playing around, but practice makes perfect, and it’s always good to have an ideal photo for reference.
