@@ -18,7 +18,16 @@ These instructions were made in mind for users with little to no experience work
 {: .fs-6 .fw-300 }
 
 ## What is Adobe Lightroom Classic?
-Lightroom is an image editor that allows the user to manipulate multiple images without touching the original files. This is ideal for retouching, enhancing, and improving digital photos and is widely used by the masses. You can download a free trial or purchase the product [here](https://www.adobe.com/products/photoshop-lightroom.html).
+Lightroom is a popular image editor that allows the user to manipulate multiple images without touching the original files. This is ideal for retouching, enhancing, and improving digital photos and is widely used by the masses. You can download a free trial or purchase the product [here](https://www.adobe.com/products/photoshop-lightroom.html).
+
+Some features include:
+* Preset Creation
+* Batch Processing
+* Easy to Use Interface
+* Original File Protection
+* Creative Adjustment Tools
+
+Lightroom is a powerful tool that can handle the editing and processing of multiple images in a single process. It is widely used by industry professionals worldwide and is easy to learn and pickup. There are an outstanding number of guides and resources online that are available on places like Youtube.
 
 ## Prerequisites
 Your computer must meet the minimum technical specifications outlined below to run and use Lightroom Classic. 
