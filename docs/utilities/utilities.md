@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Editing Style — Soft & Warm
-nav_order: 4
+nav_exclude: true
 has_children: true
 permalink: docs/utilities
 ---
