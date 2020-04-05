@@ -22,24 +22,15 @@ Adobe Lightroom is an image editor that allows the user to manipulate multiple i
 Your computer must meet the minimum technical specifications outlined below to run and use Lightroom Classic. 
 
 ### Windows Minimum Requirements
-* Processor: Intel® or AMD processor with 64-bit support*; 2 GHz or faster processor
-
-* Operating system: Microsoft Windows 7 with Service Pack 1 (64-bit) or Windows 10**
-
-* RAM: 4 GB of RAM (12 GB recommended)
-
-* Storage Space: 2 GB of available storage space for program installation.
-
-* Monitor resolution: 1024 x 768 display
-
-* Graphics processor:
-    * AMD: Radeon GPU with DirectX 12 or OpenGL 3.3 support.
-    * Intel: Skylake or newer GPU with DirectX 12 support.
-    * Nvidia: GPU with DirectX 12 or OpenGL 3.3 support.
-    * OpenGL 3.3 and DirectX 10-capable video adapter for GPU-related functionality.
-    * 1 GB Video RAM (VRAM). 2 GB of dedicated VRAM (4 GB recommended) for large, high-resolution monitors, such as 4K- and 5K-resolution monitors.
-
-* Internet: Internet connection and registration are necessary for required software activation, validation of subscriptions, and access to online services.†
+|                    | Minimum requirement                                                                                                                                                                                                                                                                                                                                                                                        |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Processor          | Intel® or AMD processor with 64-bit support*; 2 GHz or faster  processor                                                                                                                                                                                                                                                                                                                                   |
+| Operating system   | Microsoft Windows 7 with Service Pack 1 (64-bit) or Windows 10                                                                                                                                                                                                                                                                                                                                             |
+| RAM                | 4 GB of RAM (12 GB recommended)                                                                                                                                                                                                                                                                                                                                                                            |
+| Storage Space      | 2 GB of available storage space for program installation.                                                                                                                                                                                                                                                                                                                                                  |
+| Monitor resolution | 1024 x 768 display                                                                                                                                                                                                                                                                                                                                                                                         |
+| Graphics processor | * AMD: Radeon GPU with DirectX 12 or OpenGL 3.3 support. * Intel: Skylake or newer GPU with DirectX 12 support.  * Nvidia: GPU with DirectX 12 or OpenGL 3.3 support. * OpenGL 3.3 and DirectX 10-capable video adapter for  GPU-related functionality. * 1 GB Video RAM (VRAM). 2 GB of dedicated VRAM (4 GB  recommended) for large, high-resolution monitors, such as  4K- and 5K-resolution monitors.  |
+| Internet           | * Intel: Skylake or newer GPU with DirectX 12 support.                                                                                                                                                                                                                                                                                                                                                     |
 
 ### Mac
 * Processor: Multicore Intel processor with 64-bit support* 
@@ -59,7 +50,7 @@ Your computer must meet the minimum technical specifications outlined below to r
     * OpenGL 3.3-capable video adapter for GPU-related functionality.
     * 1 GB of Video RAM (VRAM). 2 GB of dedicated VRAM (4 GB recommended) for large, high-resolution monitors, such as 4K- and 5K-resolution monitors.
 
-* Internet: Internet connection and registration are necessary for required software activation, validation of subscriptions, and access to online services.†
+* Internet: Internet connection and registration are necessary for required software activation, validation of subscriptions, and access to online services.
 
 ## Typographical Conventions
 
