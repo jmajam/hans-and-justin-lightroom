@@ -43,6 +43,7 @@ Files can be converted to a specified file type, which is useful for uploading t
 Unnecessary parts of an image can be removed by cropping.
 1. Go into Develop mode by using _Ctrl_ _+_ _Alt_ _+_ _2_. 
 2. Hit _R_ to use the crop overlay tool. A grid should appear on top of the image.
+    >![Export1](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/Crop_Step.PNG)
 3. Drag the edges of the grid until the grid is on the desired area.
 4. Hit _R_ again to exit the tool.
 5. Fit the image to your screen by clicking **Fit** on the top right of the navigator
