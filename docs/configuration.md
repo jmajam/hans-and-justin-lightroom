@@ -10,7 +10,7 @@ permalink: /docs/
 {: .no_toc }
 
 
-Before any editing can begin, we must be able to import pictures and start new projects. Lightroom features non-destructive editing which means that the original content is not modified. This allows for the ability to keep the first version of the file and produce as many edits and manipulations as desired.
+Before any editing can begin, we must be able to prepare our pictures for editing. Lightroom features non-destructive editing which means that the original content is not modified. This allows for the ability to keep the first version of the file and to produce as many new versions as desired. The outlined basic tutorial will cover importing, exporting, and cropping your photo.
 
 {: .fs-6 .fw-300 }
 
@@ -23,7 +23,7 @@ Before any editing can begin, we must be able to import pictures and start new p
 ## Importing
 In order to begin your project, you need to bring in the photo(s) you want to manipulate.
 1. Go to **File** -> **Import Photos and Videos**
-2.Select a source by using the navigation panel to locate your folder.
+2. Select a source by using the navigation panel to locate your folder.
 
 ## Exporting
 Files can be converted to a specified file type, which is useful for uploading to different websites or attachments.
@@ -40,6 +40,6 @@ Unnecessary parts of an image can be removed by cropping.
 4. Hit _R_ again to exit the tool.
 5. Fit the image to your screen by clicking **Fit** on the top right of the navigator
 
-##Conclusion
+## Conclusion
 Congratulations, you now know the basics on getting started. We can now start editing photos!
 
