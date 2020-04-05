@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aesthetic - Nightscape Style
+title: Editing Style - Soft & Warm
 nav_order: 4
 has_children: true
 permalink: docs/utilities
