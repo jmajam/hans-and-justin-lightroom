@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aesthetic - LinkedIn Portrait Style
+title: Editing Style — Professional Portrait
 nav_order: 5
 ---
 
