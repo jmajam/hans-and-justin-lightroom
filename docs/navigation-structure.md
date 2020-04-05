@@ -18,8 +18,10 @@ A well edited photo holds many advantages in the corporate setting. As the sayin
 
 ## Tone Curve
 1. Click on **Tone Curve**. You should see a 4x4 grid with a diagonal line going through it.
+    >![Portrait](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/tone_curve.png)
 2. Go to the very bottom left square, then click and drag down on the square's top right corner. You should see a slight curve on the line form.
 3. Go to the very top right square on the grid, then click and drag up on the square's bottom left corner. The line should resemble an "S" now.
+    >![Portrait](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/Tone_curve_S_curve.PNG)
 
 ## Skin Tone
 1. To adjust the skin tone of the image, click on **Basic**.
