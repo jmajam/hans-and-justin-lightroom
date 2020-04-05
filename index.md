@@ -62,11 +62,11 @@ Your computer must meet the minimum technical specifications outlined below to r
 * Internet: Internet connection and registration are necessary for required software activation, validation of subscriptions, and access to online services.†
 
 ## Typographical Conventions
-<div class="conventions" markdown="1">
-| Convention | Example |
-|:-----------|:--------|
-| Interactive elements are bolded| Go to **File** -> **Import Photos and Video**
-</div>
+
+| Convention   | Example   |
+|:------------ |:------------|
+| Interactive elements are bolded| Go to **File** -> **Import Photos and Video**|
+
 ### License
 
 Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
