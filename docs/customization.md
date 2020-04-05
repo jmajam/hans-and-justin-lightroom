@@ -19,7 +19,7 @@ Adding warm tones to a photo is a great way to bring life to the subject. This m
 ## Develop
 1. Ensure that you’ve imported a picture.
 2. Click **Develop** on the top right-hand corner of the screen.
-
+    *  Develop mode can also be accessed by using _Ctrl_ _+_ _Alt_ _+_ _2_. 
 ## Basic Tool
 1. Click on **Basic**.
 2. Go to the **Exposure** slider, and move the dot to the right to increase the overall brightness of the image.
