@@ -40,6 +40,6 @@ Unnecessary parts of an image can be removed by cropping.
 4. Hit _R_ again to exit the tool.
 5. Fit the image to your screen by clicking **Fit** on the top right of the navigator
 
-
+##Conclusion
 Congratulations, you now know the basics on getting started. We can now start editing photos!
 
