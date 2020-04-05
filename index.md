@@ -63,7 +63,7 @@ Your computer must meet the minimum technical specifications outlined below to r
 
 ## Typographical Conventions
 
-| Convention   | Example   |
+| Convention   | Examples   |
 |:------------ |:------------|
 | Interactive elements are bolded| Go to **File** -> **Import Photos and Video**|
 
