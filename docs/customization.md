@@ -51,7 +51,8 @@ We'll be mostly using **White Balance** and **Tone** to bring up the light and m
    * The overall effect gives the image a rosy tint.
 6. Go to the **Shadows** and **Blacks** sliders, and increase them.
 7. Go to the **Whites** and **Highlights** sliders, and decrease them.
-   * The overall effect of manipulating these sliders creates a hazy and softer tone. The dark colours become lighter while the light colours become darker.
+   * The overall effect of manipulating these sliders creates a hazy and softer tone. 
+   * The dark colours become lighter while the light colours become darker.
 
 ## Tone Curve
 To create a more misty effect, we can bring out our dark colours and dampen our light colours.
