@@ -49,5 +49,5 @@ A well edited photo holds many advantages in the corporate setting. As the sayin
 4. Click and drag on the teeth. You should see them whiten.
 5. Adjust the **exposure** and **saturation** sliders until the teeth is to your liking.
 
-##Conclusion
+## Conclusion
 Editing a portrait to make it appear professional is useful for profile pictures on LinkedIn, graduation photos, or even human resources. The skills required to do so are transferable to other kinds of editing and retouching needed for any kind of portrait editing. You’re one step closer to becoming a Lightroom expert!
