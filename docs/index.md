@@ -9,17 +9,17 @@ permalink: /
 # Introduction
 {: .fs-9 }
 
-This is a basic guide to getting started with Adobe Lightroom. Use the links on the left to navigate through the document and learn how to edit photos. After covering the Basics,, two common editing styles are introduced to get you started.
+This is a basic guide to getting started with Adobe Lightroom. Use the links on the left to navigate through the document and learn how to edit photos. After covering the [Basics](https://jmajam.github.io//hans-and-justin-lightroom/docs/), two common editing styles are introduced to get you started.
 
 These instructions were made in mind for users with little to no experience working with Adobe Lightroom. The version used in the production of this page is with Lightroom v8.2.1.10. 
 
 {: .fs-6 .fw-300 }
 
 ## What is Adobe Lightroom?
-Adobe Lightroom is an image editor that allows the user to manipulate multiple images without touching the original files. This is ideal for retouching, enhancing, and improving digital photos and is widely used by the masses.
+Adobe Lightroom is an image editor that allows the user to manipulate multiple images without touching the original files. This is ideal for retouching, enhancing, and improving digital photos and is widely used by the masses. You can download a free trial or purcahse the product [here](https://www.adobe.com/products/photoshop-lightroom.html).
 
 ## Prerequisites
-Your computer must meet the minimum technical specifications outlined below to run and use Lightroom Classic.
+Your computer must meet the minimum technical specifications outlined below to run and use Lightroom Classic. 
 
 ### Windows Minimum Requirements
 * Processor: Intel® or AMD processor with 64-bit support*; 2 GHz or faster processor
@@ -63,10 +63,11 @@ Your computer must meet the minimum technical specifications outlined below to r
 
 ## Typographical Conventions
 
-| Convention   | Examples   |
-|:------------ |:------------|
-| Interactive elements are bolded.| Go to **File** -> **Import Photos and Video**|
-| Keyboard stokes are italicized. | Use _Ctrl_ + _Z_ to undo changes.|
+| Convention                      | Examples                                         |
+|---------------------------------|--------------------------------------------------|
+| Interactive elements are bolded | Go to **File** -&gt; **Import Photos and Video** |
+| Keyboard stokes are italicized  | Use _Ctrl_ + _Z_ to undo changes                 |
+
 ### License
 
 Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
