@@ -8,17 +8,15 @@ permalink: /docs/
 
 # Basics
 {: .no_toc }
-
-
 Before any editing can begin, we must be able to prepare our pictures for editing. Lightroom features non-destructive editing which means that the original content is not modified. This allows for the ability to keep the first version of the file and to produce as many new versions as desired. The outlined basic tutorial will cover importing, exporting, and cropping your photo.
-
-{: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+---
 
 ## Importing
 In order to begin your project, you need to bring in the photo(s) you want to manipulate.
