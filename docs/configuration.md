@@ -28,7 +28,7 @@ In order to begin your project, you need to bring in the photo(s) you want to ma
 
 2. Select a source by using the navigation panel to locate your folder.
 
-![Import2](https://github.com/jmajam/hans-and-justin-lightroom/blob/gh-pages/docs/images/Importing2.png)
+![Import2](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Importing2.png)
 
 ## Exporting
 Files can be converted to a specified file type, which is useful for uploading to different websites or attachments.
