@@ -6,6 +6,8 @@ nav_order: 3
 
 # Editing Style: Soft & Warm
 {: .no_toc }
+![editedDoggo](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/warm.png)
+
 Adding warm tones to a photo is a great way to bring life to the subject. This method of editing is powerful for bringing out emotion in a picture. Editing this way is useful for conveying intimacy social media and family photos.
 
 ## Table of contents
@@ -19,20 +21,35 @@ Adding warm tones to a photo is a great way to bring life to the subject. This m
 ## Develop
 1. Ensure that you’ve imported a picture.
 2. Click **Develop** on the top right-hand corner of the screen.
+
+>![develop](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Develop.png)
+
     *  Develop mode can also be accessed by using _Ctrl_ _+_ _Alt_ _+_ _2_. 
+    
 ## Basic Tool
+
+![basic](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Warm2.png)
+
 1. Click on **Basic**.
 2. Go to the **Exposure** slider, and move the dot to the right to increase the overall brightness of the image.
-3. Go to the **Contrast** slider, and lower the contrast 
+3. Go to the **Contrast** slider, and lower the contrast.
     * This contributes to creating a faded photo by bringing out the dark colours.
+4. Go to the **Temperature** slides, and add warmth by moving the slider to the right.
 5. Decrease the **Whites** and **Highlights** sliders.
+
 ## Tone Curve
+
+![ToneCurve](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Warm%203.png)
+
 1. Click on **Tone** **Curve** under the **Basic** tool.
-2. Ensure that the channel is "RGB" 
+2. Ensure that the channel is "RGB" .
 3. Click on three dots that are evenly spaced on the diagonal line inside the tone curve.
-4. Drag the bottom left dot down and the top left dot up. The line should resemble an "S"
+4. Drag the bottom left dot down and the top left dot up. The line should resemble an "S".
 
 ## HSL/Colour
+
+!(Colour)[https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Warm4.png])
+
 1. Click on **HSL/Colour** under the **Tone** **Curve** tool.
 2. Adjust the **Red**, **Orange**, and **Yellow**  hue sliders to control the photo warmth.
 
