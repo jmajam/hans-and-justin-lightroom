@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Editing Style: Professional Portrait
-nav_order: 5
+nav_order: 4
 ---
 
 # Editing Style: Professional Portrait

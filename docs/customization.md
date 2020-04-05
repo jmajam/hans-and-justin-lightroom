@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Editing Style: Soft & Warm
-nav_order: 6
+nav_order: 3
 ---
 
 # Editing Style: Soft & Warm
