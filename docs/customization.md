@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Editing Style — Soft & Warm
-nav_order: 10
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-permalink: /docs/
+nav_order: 3
 ---
 
 # Editing Style: Soft & Warm
