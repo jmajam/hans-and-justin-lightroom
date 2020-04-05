@@ -17,17 +17,17 @@ Adding warm tones to a photo is a great way to bring life to the subject. This m
 ---
 
 ## Develop
-{: .d-inline-block }
+
 
 ## Basic Tool
-{: .d-inline-block }
+
 
 ## Tone Curve
-{: .d-inline-block }
+
 
 ## Colour Hue
-{: .d-inline-block }
+
 
 ## Additional tips
-{: .d-inline-block }
+
 
