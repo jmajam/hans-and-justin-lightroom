@@ -26,12 +26,3 @@ Before any editing can begin, we must be able to import pictures and start new p
 ---
 
 
-
-
-## Google Analytics
-
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-```
