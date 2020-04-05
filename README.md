@@ -4,12 +4,9 @@
 <br><br>
 <p align="center">
     <h1 align="center">Beginner's Lightroom Tutorial</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
+    <br>
 </p>
-
-# Overview of Beginner's Lightroom Tutorial
+# Overview
 
 This is a guide that is meant to provide a tutorial on basic functions, as well as introduce two common editing styles. Some components of Lightroom that are introduced include:
 
@@ -35,11 +32,16 @@ The conclusion was our way of checking in with the user and repeating back the e
 
 ## Choosing our Editing Styles
 
-We wanted to introduce two styles that were popular and relevant to the average user. Doing research on popular social media such as Facebook, LinkedIn, and Instagram, we saw a trend of similar photos. Some the posts that got the most attention on social media were edited in a "soft and warm" style. This style was popular for its ability to convey After watching a couple of tutorials, our team was able to figure out how to replicate it ourselves and put into instructions for others to learn. The other style we were interested in was known as "professional portrait" because we saw many uses for it for professional and personal use. Its versaility of uses drew us to picking this to use for our tutorial.
+We wanted to introduce two styles that were popular and relevant to the average user. Doing research on popular social media such as Facebook, LinkedIn, and Instagram, we saw a trend of similar photos. 
+
+Some the posts that got the most attention on social media were edited in a "soft and warm" style. This style was popular for its ability to convey themes of affection and amiability. After watching a couple of tutorials, our team was able to figure out how to replicate it ourselves and put into instructions for others to learn. 
+
+The other style we were interested in was known as "professional portrait" because we saw many uses for it for professional and personal use. Its versaility of uses drew us to picking this to use for our tutorial.
 
 ## Conclusion
 
-Perhaps the biggest setback to this project was COVID-19, an epidemic infectious disease that spread widely in 2020. Due to the situation going beyond our control, our team was not able to meet and work together in person. Communication and work ethic became an evident issue until tensions rose as the deadline approached. In the end, we were finally able to push through together after a couple of midnight work sessions. We are proud to have accomplished the completion of this project amidst the circumstances and to have picked up new knowledge in Markdown Syntax Documentation and GitHub.
+Perhaps the biggest setback to this project was COVID-19, an epidemic infectious disease that spread widely in 2020. Due to the situation going beyond our control, our team was not able to meet and work together in person. Communication and work ethic became an evident issue until tensions rose as the deadline approached. 
+In the end, we were finally able to push through together after a couple of midnight work sessions. We are proud to have accomplished the completion of this project amidst the circumstances and to have picked up new knowledge in Markdown Syntax Documentation and GitHub.
 
 This document was built on:
 [Just the Docs](https://github.com/pmarsceill/just-the-docs)
