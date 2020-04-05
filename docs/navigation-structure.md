@@ -7,6 +7,7 @@ nav_order: 7
 # Editing Style: Professional Portrait
 {: .no_toc }
 A well edited photo holds many advantages in the corporate setting. As the saying goes, “A picture is worth a thousand words”, one can also say that a professional portrait tells a story of reliability and trust. 
+>![Portrait](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/before_after_pics.png)
 ## Table of contents
 {: .no_toc .text-delta }
 

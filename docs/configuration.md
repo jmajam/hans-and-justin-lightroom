@@ -32,6 +32,7 @@ Files can be converted to a specified file type, which is useful for uploading t
 1. Click **File** in the top left corner, and then **Export**.
 
 2. Choose the location on your computer to store the file in the export location section.
+
     >![Export1](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/show_files_in_menu.png)
 
     >![Export1](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/show_export_menu.png)
@@ -47,7 +48,7 @@ Unnecessary parts of an image can be removed by cropping.
 3. Drag the edges of the grid until the grid is on the desired area.
 4. Hit _R_ again to exit the tool.
 5. Fit the image to your screen by clicking **Fit** on the top right of the navigator
-
+    >![Export1](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/fit.png)
 ## Conclusion
 Congratulations, you now know the basics on getting started. We can now start editing photos!
 
