@@ -31,6 +31,9 @@ In order to begin your project, you need to bring in the photo(s) you want to ma
 ## Exporting
 Files can be converted to a specified file type, which is useful for uploading to different websites or attachments.
 1. Click **File** in the top left corner, and then **Export**.
+
+>![Import2](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Importing2.png)
+
 2. Choose the location on your computer to store the file in the export location section.
 3. OPTIONAL  Rename the file by clicking on the **Rename To** box and type in a name.
 4. Click **Export**.
