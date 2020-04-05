@@ -74,10 +74,11 @@ Your computer must meet the minimum technical specifications outlined below to r
 
 ## Typographical Conventions
 
-| Convention                      | Examples                                         |
+| Convention                      | TypeFace | Examples                                         |
 |---------------------------------|--------------------------------------------------|
-| Interactive elements are bolded | Go to **File** -&gt; **Import Photos and Video** |
-| Keyboard stokes are italicized  | Use _Ctrl_ + _Z_ to undo changes                 |
+| Interactive elements | **Bold** | Go to **File** -&gt; **Import Photos and Video** |
+| Keyboard stokes  | Use `Ctrl` + `Z` to undo changes                 |
+| Key terms | Italics | Adjust the _Contrast_ |
 
 ## Conclusion
 
