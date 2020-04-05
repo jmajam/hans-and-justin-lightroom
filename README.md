@@ -6,6 +6,7 @@
     <h1 align="center">Beginner's Lightroom Tutorial</h1>
     <br>
 </p>
+
 # Overview
 
 This is a guide that is meant to provide a tutorial on basic functions, as well as introduce two common editing styles. Some components of Lightroom that are introduced include:
