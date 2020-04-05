@@ -68,7 +68,6 @@ Your computer must meet the minimum technical specifications outlined below to r
 | Interactive elements are bolded | Go to **File** -&gt; **Import Photos and Video** |
 | Keyboard stokes are italicized  | Use _Ctrl_ + _Z_ to undo changes                 |
 
-### License
+## Conclusion
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
+Lightroom is a powerful software that is useful in many circumstances. Social media revolves around beautiful pictures, and learning how to edit one is becoming a huge benefit to yourself these days. It's in our best interest that you're able to learn some new tricks after going through our guide.
