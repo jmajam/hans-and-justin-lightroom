@@ -74,8 +74,8 @@ Your computer must meet the minimum technical specifications outlined below to r
 
 ## Typographical Conventions
 
-| Convention                      | TypeFace | Examples                                         |
-|---------------------------------|--------------------------------------------------|
+| Convention                      | TypeFace    | Examples                                         |
+|---------------------------------|--------------------------------------------------|---|
 | Interactive elements | **Bold** | Go to **File** -&gt; **Import Photos and Video** |
 | Keyboard stokes  | `Light` | Use `Ctrl` + `Z` to undo changes                 |
 | Key terms | _Italics_ | Adjust the _Contrast_ |
