@@ -25,6 +25,7 @@ A well edited photo holds many advantages in the corporate setting. As the sayin
 
 ## Skin Tone
 1. To adjust the skin tone of the image, click on **Basic**.
+    >![Portrait](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/basic.png)
 2. Adjust the **Temp** slider until you feel the skin tone is natural.
 
 ## Hair Detail
@@ -34,13 +35,19 @@ A well edited photo holds many advantages in the corporate setting. As the sayin
 ## Blemish Removal
 1. Hit `Q` to activate the spot removal tool.
 2. Click on **Heal**. Make sure your **Opacity** slider is set to 100 and the **Feathering** slider is at 0.
-3. Click and drag over the spots you want to clear. Adjust the size of the tool by using your scroll wheel. 
+    >![Portrait](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/brush_menu.png)
+3. Click and drag over the spots you want to clear. Adjust the size of the tool by using your scroll wheel.
+    >![Portrait](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/highlight_under_the_eyes.png)
+ 
     * You should see another point show up on the image.
+    >![Portrait](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/show_second_point_when_removing_blemishes.png)
+
     * Drag that point until the spot you highlighted is to your liking.
 
 ## Skin Smoothing
 1. Hit `K` to activate the adjustment brush.
 2. Set the **Clarity** slider to -40 and the **Sharpness** slider to around 10.
+     >![Portrait](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/adjustment_brush_settings_for_skin_smoothening.png)
 3. Click and drag the areas on the skin you want to smooth out.
 4. Adjust the **Clarity** and **Sharpness** sliders until the skin is to your liking.
 
@@ -48,6 +55,7 @@ A well edited photo holds many advantages in the corporate setting. As the sayin
 1. Return all the sliders in the adjustment brush tool to zero by double clicking on them.
 2. Set the **Clarity** slider to 0.40 and the **Saturation** slider to -60.
 3. Make sure the auto mask box is ticked. If not, click on the box to tick it.
+     >![Portrait](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/auto_mask.png)
     * This will ensure that only the teeth will be affected by the tool.
 4. Click and drag on the teeth. You should see them whiten.
 5. Adjust the **Exposure** and **Saturation** sliders until the teeth is to your liking.
