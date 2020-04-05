@@ -77,8 +77,8 @@ Your computer must meet the minimum technical specifications outlined below to r
 | Convention                      | TypeFace | Examples                                         |
 |---------------------------------|--------------------------------------------------|
 | Interactive elements | **Bold** | Go to **File** -&gt; **Import Photos and Video** |
-| Keyboard stokes  | Use `Ctrl` + `Z` to undo changes                 |
-| Key terms | Italics | Adjust the _Contrast_ |
+| Keyboard stokes  | `Light` | Use `Ctrl` + `Z` to undo changes                 |
+| Key terms | _Italics_ | Adjust the _Contrast_ |
 
 ## Conclusion
 
