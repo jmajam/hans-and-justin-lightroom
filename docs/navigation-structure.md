@@ -8,7 +8,8 @@ nav_order: 7
 {: .no_toc }
 
 >![Portrait](https://raw.githubusercontent.com/jmajam/hans-and-justin-lightroom/gh-pages/docs/images/Portrait/before_after_pics.png)
-A well edited photo holds many advantages in the corporate setting. As the saying goes, “A picture is worth a thousand words” and a professional portrait for conveying reliability and trust. 
+
+The above portrays the comparison of an unedited photo vs an edited one from left to right. A well edited photo holds many advantages in the corporate setting. As the saying goes, “A picture is worth a thousand words” and a professional portrait for conveying reliability and trust. 
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -37,6 +38,7 @@ A well edited photo holds many advantages in the corporate setting. As the sayin
 1. To increase hair detail, adjust the **Shadow** slider in **Basic**.
 2. If the image is now too bright, adjust the **Highlights** slider until the skin tone is natural to your liking.
 3. Increase the _Clarity_ slider by a small amount (e.g. 3-7) for extra detail.
+
 ## Blemish Removal
 1. Hit `Q` to activate the spot removal tool.
 2. Click on **Heal**. Make sure your **Opacity** slider is set to 100 and the **Feathering** slider is at 0.
