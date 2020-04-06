@@ -73,7 +73,7 @@ Your computer must meet the minimum technical specifications outlined below to r
 * Internet: Internet connection and registration are necessary for required software activation, validation of subscriptions, and access to online services.
 
 ## Typographical Conventions
-For the sake of this guide, please refer to the below table for how each convention will be formatted.
+Please refer to the below table for how each convention will be formatted.
 
 | Convention                      | TypeFace    | Examples                                         |
 |---------------------------------|--------------------------------------------------|---|
