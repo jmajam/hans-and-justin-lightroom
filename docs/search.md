@@ -27,3 +27,20 @@ nav_order: 8
 **Saturation**:
 
 **Temperature**:
+
+Cropping
+Import
+Export
+Hue
+Saturation
+Presence
+Exposure
+Contrast
+Temperature
+Tint
+Shadows
+Whites
+Blacks
+Highlights
+HSL
+Colour
