@@ -6,6 +6,11 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
+<p align="center">
+    <h1 align="center">Beginner's Lightroom CC Tutorial</h1>
+    <br>
+</p>
+
 # Introduction
 {: .fs-9 }
 
