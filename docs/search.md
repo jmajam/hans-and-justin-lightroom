@@ -14,33 +14,12 @@ nav_order: 8
 
 **Highlights & Shadows**: Highlights are the brightest elements in an image; shadows are the darkest parts.
 
-**Hue**:
+**Saturation**: Saturation makes colors more vivid (less black or white added).
 
-**Tone**:
+**Hue**: Color tones of the image. Changing hue can change what color a color should be.
 
-**Develop**:
+**Import**: To bring a file into the software.
 
-**Import**:
+**Export**: To convert the current project to a desired file type.
 
-**Export**:
-
-**Saturation**:
-
-**Temperature**:
-
-Cropping
-Import
-Export
-Hue
-Saturation
-Presence
-Exposure
-Contrast
-Temperature
-Tint
-Shadows
-Whites
-Blacks
-Highlights
-HSL
-Colour
+**Temperature**: To make the image look warmer or colder as white is balanced differently in different teperatures.
