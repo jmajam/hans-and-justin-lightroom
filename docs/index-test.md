@@ -4,7 +4,9 @@ title: Troubleshooting
 nav_order: 99
 ---
 
+# Troubleshooting
 
+---
 |  Symptoms  | Probable cause  | Action |
 | :----------| :----------------| :--------|
 | Can not import file | Broken file/Wrong file | Check [here](https://helpx.adobe.com/ca/lightroom-classic/help/supported-file-formats.html) for Adobe's extensive list of supported file types |
