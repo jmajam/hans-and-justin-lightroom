@@ -33,7 +33,7 @@ To begin developing, we need to access the developer tool.
     
 ## Basic Tool
 
-We'll start our editing by going over the basic adjustments. It's broken down into 3 main groups:
+We'll start our editing by going over the basic adjustments, which are broken down into 3 main groups:
 * White Balance (WB)
 * Tone
 * Presence
@@ -84,7 +84,4 @@ We can complete our last adjustments by bringing out more/less of certain colour
    * I've decreased mine to keep that "hazy" feel.
 
 ## Conclusion
-There are many other ways to make a picture more sentimental. Not every photo will be edited exactly the same.
-Some require different levels of balance between light and dark colours, depending on how the original photo was captured.
-It will take some playing around, but practice makes perfect, and it’s always good to have an ideal photo for reference. Warm photos are great for showing off themes of passion and affection.
-
+Warm photos are great for showing off themes of passion and affection and there exist multiple ways to achieve similar effects. Not every photo will be edited exactly the same. In fact, some require different levels of balance between light and dark colours, depending on how the original photo was captured. It will take some playing around, but practice makes perfect, and your talent as a photo editors only improves from here on.
