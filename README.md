@@ -18,16 +18,16 @@ This is a guide that is meant to provide a tutorial on basic functions, as well 
 
 ## Developing Our Guide
 
-Our primary sources for the production of this guide mainly came from "Writing in the Technical Fields: A Practical Guide" by Thorsten Ewald, and from our instructor, Sam Lee. 
+Our primary source for the production of this instructional guide is from "Writing in the Technical Fields: A Practical Guide" by Thorsten Ewald. Alongside useful writing conventions, there were many standards of instructional writing to be upheld.
 
 The process of creating instructions was broken into three main categories:
 * Introduction
 * Step-by-Step Instructions
 * Conclusion
 
-We were careful to include the relevancy of the topic for each set of instructions, as it was important to us to introduce the practicality and usefulness of the task. We learned that stating the necessity of the objective leads to better readibility and understanding of the instruction.
+Additionally, we were careful to include the relevancy of the topic for each set of instructions, as it was important to us to introduce the practicality and usefulness of the task. Stating the necessity of the objective leads to better readibility and understanding of the instruction for the reader.
 
-Step-by-Step instructions were the essential core of the project. There were many standards to uphold for conveying clear instructions, such as the use of effective graphics. We made sure that our instructions were clear and worked well will with the additional notes, cautions, and subdivisions of text that were accompanied. Our final check was by testing our instructions with peers and getting feedback on what to improve.
+Step-by-Step instructions were the essential core of the project. There were many standards to uphold for conveying clear instructions, such as the use of effective graphics. We made sure that our instructions were clear and worked well with the additional notes, cautions, and subdivisions of text that were accompanied. Our final check was by testing our instructions with peers and getting feedback on what to improve.
 
 The conclusion was our way of checking in with the user and repeating back the expectation. Doing so allows for the user to be reminded of the goal of the instruction and to go back to their work if they accomplished the task.
 
